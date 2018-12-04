@@ -1,0 +1,6 @@
+*.o
+*.exe
+polymer
+*.polynet.vhd
+*.ecc.vhd
+*.ecc.polynet
